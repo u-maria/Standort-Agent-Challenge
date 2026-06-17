@@ -32,6 +32,10 @@ Für die Umsetzung der Landing Page wurden zunächst Replit und anschließend Lo
 
 Die zugrunde liegenden Inhalte, die Positionierung sowie die Anforderungen wurden zuvor mithilfe des AI Venture Builder Assistant entwickelt und anschließend iterativ verfeinert.
 
+Landing Page Link: 
+
+https://standort-agent.lovable.app/#
+
 ## Fazit
 
 KI wurde während des gesamten Projekts als Research-, Analyse- und Umsetzungstool eingesetzt.
