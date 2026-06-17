@@ -18,26 +18,6 @@ Unabhängige Café-Betreiber:innen und kleine Café-Ketten mit 1–3 bestehenden
 
 Kleine Café-Betreiber:innen sind bereit, für eine unabhängige und datenbasierte Standortanalyse zu bezahlen, bevor sie einen langfristigen Mietvertrag unterschreiben und hohe Investitionen tätigen.
 
-## Repository-Struktur
-
-docs/
-
-* Lean Canvas
-* Business Case
-* Decision Log
-* KI-Workflow
-* Selbst-Report
-
-prompts/
-
-* Anweisungen für den Custom GPT
-* Wichtige Prompts aus dem Projekt
-
-assets/
-
-* Screenshots
-* Grafiken und unterstützende Materialien
-
 ## Landing Page
 
 Live-Prototyp:
