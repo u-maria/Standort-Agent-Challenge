@@ -7,12 +7,14 @@
 
 ## Einordnung
 
-Der Aufwand lag über den im Briefing genannten 4–6 Stunden, da die Themen Venture Building, Marktvalidierung und Startup-Modellierung für mich neu waren und ich zunächst relevante Konzepte, Begriffe und Methoden verstehen musste.
+Der Aufwand lag über den im Briefing genannten 4–6 Stunden. Die Challenge fiel bei mir zeitlich in die Prüfungsphase des Semesters, weshalb ich die Arbeit über mehrere Tage verteilt und nicht in einem durchgehenden Block bearbeitet habe.
 
-Zusätzliche Zeit floss in den Aufbau eines eigenen Custom GPT ("AI Venture Builder Assistant"), die Iteration verschiedener KI-Workflows sowie die Erstellung und Überarbeitung einer Landing Page zur Validierung des Konzepts.
+Zusätzlich handelte es sich für mich um den ersten intensiven Kontakt mit Venture Building, Marktvalidierung und Startup-Modellierung. Ein Teil der Zeit floss daher in das Verständnis relevanter Konzepte, Methoden und Fachbegriffe, bevor ich mit der eigentlichen Ausarbeitung begonnen habe.
 
-Ein Teil der Zeit wurde außerdem für die Bewertung, Korrektur und Verdichtung von KI-generierten Ergebnissen verwendet. Die finale Ausarbeitung basiert auf mehreren Iterationsschleifen zwischen Recherche, Analyse, kritischer Prüfung von Annahmen und Synthese der Ergebnisse.
+Weitere Zeit investierte ich in den Aufbau eines eigenen Custom GPT ("AI Venture Builder Assistant"), die Entwicklung eines KI-gestützten Workflows sowie die Erstellung und Iteration einer Landing Page zur Validierung des Konzepts.
+
+Ein wesentlicher Teil der Arbeit bestand außerdem darin, KI-generierte Ergebnisse kritisch zu prüfen, zu verdichten und in eine konsistente Empfehlung zu überführen.
 
 ## Reflexion
 
-Rückblickend hätte ich den Umfang reduzieren können. Gleichzeitig war der zusätzliche Aufwand hilfreich, um die Problemstellung, die zugrunde liegenden Geschäftsannahmen und den praktischen Einsatz von KI-gestützten Workflows besser zu verstehen.
+Rückblickend hätte ich den Umfang reduzieren können. Gleichzeitig war der zusätzliche Aufwand hilfreich, um die Problemstellung, die Geschäftsannahmen und den praktischen Einsatz von KI-gestützten Venture-Building-Workflows besser zu verstehen.
