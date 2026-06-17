@@ -63,6 +63,10 @@ Unterstützte Aufgaben:
 
 KI wurde als Werkzeug für Recherche, Analyse und Umsetzung genutzt. Die finalen Geschäftsentscheidungen und Empfehlungen wurden manuell getroffen.
 
+Walkthrough-Link: 
+
+https://drive.google.com/file/d/1km9oFdu1ThEt9AeeWtlU7FG_GPy-9n15/view?usp=sharing
+
 ## Wichtigste Erkenntnis
 
 Die größte Unsicherheit liegt nicht in der technischen Umsetzbarkeit, sondern in der Zahlungsbereitschaft potenzieller Kund:innen.
